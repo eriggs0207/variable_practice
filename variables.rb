@@ -27,3 +27,7 @@ username = "eriggs0207!"
 fav_color = "red"
 
 puts weight
+puts fav_color
+puts username
+puts logged_in
+puts remaining_balance
