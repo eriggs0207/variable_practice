@@ -15,3 +15,15 @@ account_balance = 999.99
 deposit_collected = 1222.22
 
 remaining_balance = 230.33
+
+age_21 = true
+
+logged_in = false
+
+terms_agreement = true
+
+username = "eriggs0207!"
+
+fav_color = "red"
+
+puts weight
